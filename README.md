@@ -1,5 +1,5 @@
 # monkey.ip
-Monkey IP analiza y genera reportes en pdf, este programa busca masivamente con el archivo.txt si las IPs publicas se encuentran reportadas., Follow me Twitter and Instagram @DaveNISC
+Monkey IP analyzes and generates reports in pdf, this program searches massively with the.txt file if the public IPs are reported., Follow me Twitter and Instagram @DaveNISC
 
 1. pip3 install -r requirements.txt
 2. python3 monkey.ip.py
