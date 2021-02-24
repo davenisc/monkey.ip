@@ -1,0 +1,4 @@
+pydnsbl==1.1.2
+fpdf==1.7.2
+pandas==1.1.2
+reportlab==3.5.59
