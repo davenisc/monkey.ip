@@ -13,4 +13,4 @@ all releases -> https://github.com/davenisc/monkey.ip/releases/
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/HHwfmTC/monkey-ip-2.png" alt="monkey-ip-2" border="0"></a>
 
 
-<a href="https://instagram.com/davenisc/"><img src="https://i.ibb.co/yWZ4dhx/iconfinder-instagram-2142569.png" alt="iconfinder-instagram-2142569" border="0"></a>
+<a href="https://instagram.com/davenisc.co/"><img src="https://i.ibb.co/yWZ4dhx/iconfinder-instagram-2142569.png" alt="iconfinder-instagram-2142569" border="0"></a>
